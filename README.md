@@ -1,7 +1,7 @@
-## Hi , I'am Rokonuzzaman👋
+<h1 align="center">Hi, I’m Rokonuzzaman 👋</h1>
 
 # 💫 About Me:
-🔭 Currently working on: Semantic SEO, topical authority & entity-based content strategies<br><br>🤝 Looking to collaborate on: SEO projects, topical maps & content architecture<br><br>📚 Currently learning: Advanced Semantic SEO & search engine entity understanding<br><br>💬 Ask me about: Semantic SEO, on-page optimization & content strategy<br><br>⚡ Fun fact: I love simplifying complex SEO concepts into practical systems 🚀
+🔭 Currently working on: **Semantic SEO**, **topical authority** & **entity-based content strategies**<br><br>🤝 Looking to collaborate on: SEO projects, topical maps & content architecture<br><br>📚 Currently learning: Advanced Semantic SEO & search engine entity understanding<br><br>💬 Ask me about: Semantic SEO, on-page optimization & content strategy<br><br>⚡ Fun fact: I love simplifying complex SEO concepts into practical systems 🚀
 
 
 ## 🌐 Socials:
