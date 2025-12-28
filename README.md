@@ -1,10 +1,17 @@
 <h1 align="center">Hi, I’m Rokonuzzaman 👋</h1>
 
-# 💫 About Me:
-🔭 Currently working on: **Semantic SEO**, **topical authority** & **entity-based content strategies**<br><br>🤝 Looking to collaborate on: SEO projects, topical maps & content architecture<br><br>📚 Currently learning: Advanced Semantic SEO & search engine entity understanding<br><br>💬 Ask me about: Semantic SEO, on-page optimization & content strategy<br><br>⚡ Fun fact: I love simplifying complex SEO concepts into practical systems 🚀
+
+# 💫 About Me
+
+- 🔭 **Currently working on:** Semantic SEO, topical authority & entity-based content strategies  
+- 🤝 **Looking to collaborate on:** SEO projects, topical maps & content architecture  
+- 📚 **Currently learning:** Advanced Semantic SEO & search engine entity understanding  
+- 💬 **Ask me about:** Semantic SEO, on-page optimization & content strategy  
+- ⚡ **Fun fact:** I love simplifying complex SEO concepts into practical systems 🚀
 
 
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rokon8407) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rokon8407) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rokon8407) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rokon8407) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rokon8407) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rokon8407) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@rokon8407) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rokon8407@gmail.com) 
 
 # 💻 Tech Stack:
